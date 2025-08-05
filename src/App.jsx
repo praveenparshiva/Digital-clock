@@ -1,8 +1,8 @@
-import ToDoList from "./ToDOList";
+import DigitalClock from "./digitalClock.jsx" 
 function App() {
   return (
     <>
-      <ToDoList />
+      <DigitalClock />
     </>
   );
 }
